@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:38:05.773Z",
+  "generatedAt": "2026-07-04T10:57:21.123Z",
   "cities": [
     "Akron, OH",
     "Portage Lakes, OH",
@@ -7,7 +7,7 @@
     "Kent, OH",
     "Canton, OH"
   ],
-  "eventCount": 143,
+  "eventCount": 144,
   "events": [
     {
       "id": "local-dano-s-lakeside-pub-2026-07-04-prime-trio",
@@ -80,8 +80,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike",
-      "name": "The Strike",
+      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike-sum-sun",
+      "name": "The Strike SUM SUN",
       "date": "2026-07-05",
       "time": "20:00",
       "price": "Free",
@@ -94,8 +94,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-07-07-irish-jam-session-",
-      "name": "IRISH JAM SESSION!",
+      "id": "local-the-rialto-theatre-2026-07-07-irish-jam-session",
+      "name": "Irish Jam Session",
       "date": "2026-07-07",
       "time": "18:30",
       "price": null,
@@ -164,6 +164,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-the-rialto-theatre-2026-07-08-swing-dancing-the-rialto",
+      "name": "Swing Dancing @ The Rialto",
+      "date": "2026-07-08",
+      "time": "18:30",
+      "price": "$3, $5 lesson, $8 combo",
+      "ticketUrl": null,
+      "venueName": "The Rialto Theatre",
+      "city": "Akron",
+      "state": "OH",
+      "latitude": 41.0553,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-foundry-concert-club-2026-07-08-rgmrts-death-mattress-miss-dreadful-thing-in-the-moonlight",
       "name": "RGMRTS, Death Mattress, Miss Dreadful, Thing In The Moonlight",
       "date": "2026-07-08",
@@ -175,34 +189,6 @@
       "state": "OH",
       "latitude": 41.4838,
       "longitude": -81.768,
-      "source": "localAI"
-    },
-    {
-      "id": "local-the-rialto-theatre-2026-07-08-swing-dancing-the-rialto",
-      "name": "SWING DANCING @ THE RIALTO",
-      "date": "2026-07-08",
-      "time": "20:00",
-      "price": "$3 / $5 lesson / $8 combo",
-      "ticketUrl": null,
-      "venueName": "The Rialto Theatre",
-      "city": "Akron",
-      "state": "OH",
-      "latitude": 41.0553,
-      "longitude": -81.541,
-      "source": "localAI"
-    },
-    {
-      "id": "local-beachland-ballroom-tavern-2026-07-08-puppeteers-for-fears-presents-robopocalypse-the-musical-",
-      "name": "Puppeteers For Fears, presents Robopocalypse: The Musical!",
-      "date": "2026-07-08",
-      "time": "20:00",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
       "source": "localAI"
     },
     {
@@ -249,10 +235,10 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-07-09-blue-radio-hywater-i-d-like-to-go-home-now",
-      "name": "BLUE RADIO / HYWATER / I'D LIKE TO GO HOME NOW",
+      "name": "Blue Radio / Hywater / I'd Like to Go Home Now",
       "date": "2026-07-09",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -263,7 +249,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-07-10-glenn-sonoda-and-special-guests-in-the-rialto-living-room",
-      "name": "GLENN SONODA AND SPECIAL GUESTS IN THE RIALTO LIVING ROOM",
+      "name": "Glenn Sonoda and Special Guests in The Rialto Living Room",
       "date": "2026-07-10",
       "time": "17:00",
       "price": null,
@@ -406,7 +392,7 @@
       "name": "Lunar Sun Theatrics Presents...Categorical Nonsense Vol. 1",
       "date": "2026-07-11",
       "time": "14:00",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -500,6 +486,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-beachland-ballroom-tavern-2026-07-12-beachland-flea-dj-mark-mrazek",
+      "name": "Beachland Flea, DJ Mark Mrazek",
+      "date": "2026-07-12",
+      "time": "10:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Beachland Ballroom & Tavern",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.5695,
+      "longitude": -81.5697,
+      "source": "localAI"
+    },
+    {
       "id": "local-dano-s-lakeside-pub-2026-07-12-elijah-black",
       "name": "ELIJAH BLACK",
       "date": "2026-07-12",
@@ -542,8 +542,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker",
-      "name": "Jack Blocker",
+      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker-natalie-mcmahon",
+      "name": "Jack Blocker, Natalie McMahon",
       "date": "2026-07-12",
       "time": "20:00",
       "price": null,
@@ -598,6 +598,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-the-foundry-concert-club-2026-07-15-metalcore-wednesday",
+      "name": "Metalcore Wednesday",
+      "date": "2026-07-15",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "The Foundry Concert Club",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.4838,
+      "longitude": -81.768,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-kent-stage-2026-07-15-back-to-black-music-of-amy-winehouse",
       "name": "Back To Black Music Of Amy Winehouse",
       "date": "2026-07-15",
@@ -630,7 +644,7 @@
       "name": "Emerging Sounds Ft. Your Shrapnel Caress / Remnants",
       "date": "2026-07-16",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -700,7 +714,7 @@
       "name": "The Tenants / Roots Music Trio / Dust Bowl Faeries / Mudhouse Duo",
       "date": "2026-07-17",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -767,7 +781,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-07-18-jeff-smith-rusty-pugh-hb-blues-",
-      "name": "JEFF SMITH & RUSTY PUGH - HB BLUES!",
+      "name": "Jeff Smith & Rusty Pugh - HB Blues!",
       "date": "2026-07-18",
       "time": "17:00",
       "price": null,
@@ -812,7 +826,7 @@
       "name": "The Voodoo Child / Tundra Tuxedo",
       "date": "2026-07-18",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -892,11 +906,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-07-22-swing-dancing-the-rialto-",
-      "name": "SWING DANCING @ THE RIALTO!",
+      "id": "local-the-rialto-theatre-2026-07-22-swing-dancing-the-rialto",
+      "name": "Swing Dancing @ The Rialto",
       "date": "2026-07-22",
-      "time": "20:00",
-      "price": "$3 / $5 lesson / $8 combo",
+      "time": "18:30",
+      "price": "$3, $5 lesson, $8 combo",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -924,7 +938,7 @@
       "name": "Daisypusher / Highland Grove / Daniel Rylander / Britney Redpath",
       "date": "2026-07-23",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -994,7 +1008,7 @@
       "name": "The Velvet Gentlemen / Riley Burke Band / Rustic Skies",
       "date": "2026-07-24",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1078,7 +1092,7 @@
       "name": "Super Culture / Akronauts / Lovely Weather",
       "date": "2026-07-25",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1162,7 +1176,7 @@
       "name": "Marcus Waine / Grace Oddo / Logan Asher",
       "date": "2026-07-30",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1190,7 +1204,7 @@
       "name": "Luke Wiggins / Dale Blankenship / Zach Angeloni",
       "date": "2026-07-31",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1243,10 +1257,10 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-01-hit-playback-concert-by-jim-ballard-the-strangs-ft-austin-walkin-cane",
-      "name": "HIT PLAYBACK CONCERT BY JIM BALLARD & THE STRANGS FT. AUSTIN WALKIN' CANE",
+      "name": "Hit Playback Concert by Jim Ballard & The Strangs Ft. Austin Walkin' Cane",
       "date": "2026-08-01",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1298,8 +1312,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-08-04-irish-jam-session-",
-      "name": "Irish Jam Session!",
+      "id": "local-the-rialto-theatre-2026-08-04-irish-jam-session",
+      "name": "Irish Jam Session",
       "date": "2026-08-04",
       "time": "18:30",
       "price": null,
@@ -1313,7 +1327,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-06-jim-ballard-s-first-thursday-in-the-rialto-living-room",
-      "name": "JIM BALLARD'S FIRST THURSDAY IN THE RIALTO LIVING ROOM",
+      "name": "Jim Ballard's First Thursday in The Rialto Living Room",
       "date": "2026-08-06",
       "time": "17:00",
       "price": null,
@@ -1369,7 +1383,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-08-i-love-the-90-s-night-ft-local-musicians-playing-90-s-hits",
-      "name": "I LOVe THE 90's Night! Ft. Local Musicians Playing 90's Hits",
+      "name": "I Love The 90's Night! Ft. Local Musicians Playing 90's Hits",
       "date": "2026-08-08",
       "time": "20:00",
       "price": "Free",
@@ -1410,11 +1424,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-08-12-swing-dancing-the-rialto-",
-      "name": "SWING DANCING @ THE RIALTO!",
+      "id": "local-the-rialto-theatre-2026-08-12-swing-dancing-the-rialto",
+      "name": "Swing Dancing @ The Rialto",
       "date": "2026-08-12",
-      "time": "20:00",
-      "price": "$5 / $5 lesson",
+      "time": "18:30",
+      "price": "$5, $5 lesson",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1498,7 +1512,7 @@
       "name": "Glass Aeros / LibCor / Hobo Phantasm",
       "date": "2026-08-20",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1526,7 +1540,7 @@
       "name": "The Moonlight Serenaders Big Band W/ Guest Mike Cady Present Satin, Smoke & Swing",
       "date": "2026-08-21",
       "time": "20:00",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1592,11 +1606,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-08-26-swing-dancing-the-rialto-",
-      "name": "SWING DANCING @ THE RIALTO!",
+      "id": "local-the-rialto-theatre-2026-08-26-swing-dancing-the-rialto",
+      "name": "Swing Dancing @ The Rialto",
       "date": "2026-08-26",
-      "time": "20:00",
-      "price": "$5 / $5 lesson",
+      "time": "18:30",
+      "price": "$5, $5 lesson",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1666,7 +1680,7 @@
       "name": "River Glen / Megan Bee / Light Of The Loon",
       "date": "2026-08-29",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1904,7 +1918,7 @@
       "name": "The Captain Album Release Party By Anna Beau Ft. Brett Auerbach / Jesse Ruben / Wreck Like Me",
       "date": "2026-09-18",
       "time": "19:30",
-      "price": "$5 surcharge for under 21",
+      "price": null,
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -2096,7 +2110,7 @@
     {
       "venue": "The Foundry Concert Club",
       "status": "ok",
-      "events": 14
+      "events": 15
     },
     {
       "venue": "The Kent Stage",
