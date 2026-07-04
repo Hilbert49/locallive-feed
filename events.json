@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:57:21.123Z",
+  "generatedAt": "2026-07-04T11:02:32.781Z",
   "cities": [
     "Akron, OH",
     "Portage Lakes, OH",
@@ -7,7 +7,7 @@
     "Kent, OH",
     "Canton, OH"
   ],
-  "eventCount": 144,
+  "eventCount": 146,
   "events": [
     {
       "id": "local-dano-s-lakeside-pub-2026-07-04-prime-trio",
@@ -35,6 +35,34 @@
       "state": "OH",
       "latitude": 41.4903,
       "longitude": -81.7093,
+      "source": "localAI"
+    },
+    {
+      "id": "local-beachland-ballroom-tavern-2026-07-05-beachland-brunch-with-dj-red-i",
+      "name": "Beachland Brunch with DJ Red-I",
+      "date": "2026-07-05",
+      "time": "11:00",
+      "price": "Free",
+      "ticketUrl": null,
+      "venueName": "Beachland Ballroom & Tavern",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.5695,
+      "longitude": -81.5697,
+      "source": "localAI"
+    },
+    {
+      "id": "local-beachland-ballroom-tavern-2026-07-05-this-way-out",
+      "name": "This Way Out",
+      "date": "2026-07-05",
+      "time": "12:00",
+      "price": "Free",
+      "ticketUrl": null,
+      "venueName": "Beachland Ballroom & Tavern",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.5695,
+      "longitude": -81.5697,
       "source": "localAI"
     },
     {
@@ -81,10 +109,10 @@
     },
     {
       "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike-sum-sun",
-      "name": "The Strike SUM SUN",
+      "name": "The Strike, SUM SUN",
       "date": "2026-07-05",
       "time": "20:00",
-      "price": "Free",
+      "price": null,
       "ticketUrl": null,
       "venueName": "Beachland Ballroom & Tavern",
       "city": "Cleveland",
@@ -94,8 +122,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-07-07-irish-jam-session",
-      "name": "Irish Jam Session",
+      "id": "local-the-rialto-theatre-2026-07-07-irish-jam-session-",
+      "name": "IRISH JAM SESSION!",
       "date": "2026-07-07",
       "time": "18:30",
       "price": null,
@@ -165,10 +193,10 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-07-08-swing-dancing-the-rialto",
-      "name": "Swing Dancing @ The Rialto",
+      "name": "SWING DANCING @ THE RIALTO",
       "date": "2026-07-08",
       "time": "18:30",
-      "price": "$3, $5 lesson, $8 combo",
+      "price": "$3, $5 lesson, $8 combined",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -189,6 +217,20 @@
       "state": "OH",
       "latitude": 41.4838,
       "longitude": -81.768,
+      "source": "localAI"
+    },
+    {
+      "id": "local-beachland-ballroom-tavern-2026-07-08-puppeteers-for-fears-presents-robopocalypse-the-musical-",
+      "name": "Puppeteers For Fears, presents Robopocalypse: The Musical!",
+      "date": "2026-07-08",
+      "time": "20:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Beachland Ballroom & Tavern",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.5695,
+      "longitude": -81.5697,
       "source": "localAI"
     },
     {
@@ -235,7 +277,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-07-09-blue-radio-hywater-i-d-like-to-go-home-now",
-      "name": "Blue Radio / Hywater / I'd Like to Go Home Now",
+      "name": "BLUE RADIO / HYWATER / I'D LIKE TO GO HOME NOW",
       "date": "2026-07-09",
       "time": "19:30",
       "price": null,
@@ -249,7 +291,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-07-10-glenn-sonoda-and-special-guests-in-the-rialto-living-room",
-      "name": "Glenn Sonoda and Special Guests in The Rialto Living Room",
+      "name": "GLENN SONODA AND SPECIAL GUESTS IN THE RIALTO LIVING ROOM",
       "date": "2026-07-10",
       "time": "17:00",
       "price": null,
@@ -332,8 +374,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-jilly-s-music-room-2026-07-10-the-alibi",
-      "name": "The Alibi",
+      "id": "local-jilly-s-music-room-2026-07-10-the-alibi-friday",
+      "name": "The Alibi Friday",
       "date": "2026-07-10",
       "time": "20:00",
       "price": "Free",
@@ -375,7 +417,7 @@
     },
     {
       "id": "local-the-foundry-concert-club-2026-07-10-nocturnal",
-      "name": "NOCTURNAL",
+      "name": "Nocturnal",
       "date": "2026-07-10",
       "time": "22:00",
       "price": null,
@@ -598,20 +640,6 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-foundry-concert-club-2026-07-15-metalcore-wednesday",
-      "name": "Metalcore Wednesday",
-      "date": "2026-07-15",
-      "time": "18:00",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "The Foundry Concert Club",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.4838,
-      "longitude": -81.768,
-      "source": "localAI"
-    },
-    {
       "id": "local-the-kent-stage-2026-07-15-back-to-black-music-of-amy-winehouse",
       "name": "Back To Black Music Of Amy Winehouse",
       "date": "2026-07-15",
@@ -640,8 +668,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-07-16-emerging-sounds-ft-your-shrapnel-caress-remnants",
-      "name": "Emerging Sounds Ft. Your Shrapnel Caress / Remnants",
+      "id": "local-the-rialto-theatre-2026-07-16-your-shrapnel-caress-remnants",
+      "name": "Your Shrapnel Caress / Remnants",
       "date": "2026-07-16",
       "time": "19:30",
       "price": null,
@@ -781,7 +809,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-07-18-jeff-smith-rusty-pugh-hb-blues-",
-      "name": "Jeff Smith & Rusty Pugh - HB Blues!",
+      "name": "JEFF SMITH & RUSTY PUGH - HB BLUES!",
       "date": "2026-07-18",
       "time": "17:00",
       "price": null,
@@ -906,11 +934,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-07-22-swing-dancing-the-rialto",
-      "name": "Swing Dancing @ The Rialto",
+      "id": "local-the-rialto-theatre-2026-07-22-swing-dancing-the-rialto-",
+      "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-07-22",
       "time": "18:30",
-      "price": "$3, $5 lesson, $8 combo",
+      "price": "$3, $5 lesson, $8 combined",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1257,7 +1285,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-01-hit-playback-concert-by-jim-ballard-the-strangs-ft-austin-walkin-cane",
-      "name": "Hit Playback Concert by Jim Ballard & The Strangs Ft. Austin Walkin' Cane",
+      "name": "HIT PLAYBACK CONCERT BY JIM BALLARD & THE STRANGS FT. AUSTIN WALKIN' CANE",
       "date": "2026-08-01",
       "time": "19:30",
       "price": null,
@@ -1312,8 +1340,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-08-04-irish-jam-session",
-      "name": "Irish Jam Session",
+      "id": "local-the-rialto-theatre-2026-08-04-irish-jam-session-",
+      "name": "Irish Jam Session!",
       "date": "2026-08-04",
       "time": "18:30",
       "price": null,
@@ -1327,7 +1355,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-06-jim-ballard-s-first-thursday-in-the-rialto-living-room",
-      "name": "Jim Ballard's First Thursday in The Rialto Living Room",
+      "name": "JIM BALLARD'S FIRST THURSDAY IN THE RIALTO LIVING ROOM",
       "date": "2026-08-06",
       "time": "17:00",
       "price": null,
@@ -1383,7 +1411,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-08-i-love-the-90-s-night-ft-local-musicians-playing-90-s-hits",
-      "name": "I Love The 90's Night! Ft. Local Musicians Playing 90's Hits",
+      "name": "I LOVE THE 90's Night! Ft. Local Musicians Playing 90's Hits",
       "date": "2026-08-08",
       "time": "20:00",
       "price": "Free",
@@ -1424,8 +1452,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-08-12-swing-dancing-the-rialto",
-      "name": "Swing Dancing @ The Rialto",
+      "id": "local-the-rialto-theatre-2026-08-12-swing-dancing-the-rialto-",
+      "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-08-12",
       "time": "18:30",
       "price": "$5, $5 lesson",
@@ -1606,8 +1634,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-08-26-swing-dancing-the-rialto",
-      "name": "Swing Dancing @ The Rialto",
+      "id": "local-the-rialto-theatre-2026-08-26-swing-dancing-the-rialto-",
+      "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-08-26",
       "time": "18:30",
       "price": "$5, $5 lesson",
@@ -2079,7 +2107,7 @@
     },
     {
       "venue": "Hook, Line & Drinkers",
-      "status": "js-rendered",
+      "status": "ok",
       "events": 0
     },
     {
@@ -2090,7 +2118,7 @@
     {
       "venue": "Beachland Ballroom & Tavern",
       "status": "ok",
-      "events": 10
+      "events": 13
     },
     {
       "venue": "Mahall's 20 Lanes",
@@ -2110,7 +2138,7 @@
     {
       "venue": "The Foundry Concert Club",
       "status": "ok",
-      "events": 15
+      "events": 14
     },
     {
       "venue": "The Kent Stage",
@@ -2134,7 +2162,7 @@
     },
     {
       "venue": "The Auricle",
-      "status": "js-rendered",
+      "status": "ok",
       "events": 0
     },
     {
