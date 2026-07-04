@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T12:03:12.335Z",
+  "generatedAt": "2026-07-04T12:07:48.620Z",
   "cities": [
     "Akron, OH",
     "Portage Lakes, OH",
@@ -7,7 +7,7 @@
     "Kent, OH",
     "Canton, OH"
   ],
-  "eventCount": 149,
+  "eventCount": 155,
   "events": [
     {
       "id": "local-dano-s-lakeside-pub-2026-07-04-prime-trio",
@@ -80,11 +80,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike-sum-sun",
-      "name": "The Strike, SUM SUN",
+      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike",
+      "name": "The Strike",
       "date": "2026-07-05",
       "time": "20:00",
-      "price": "Free",
+      "price": null,
       "ticketUrl": null,
       "venueName": "Beachland Ballroom & Tavern",
       "city": "Cleveland",
@@ -182,7 +182,7 @@
       "name": "SWING DANCING @ THE RIALTO",
       "date": "2026-07-08",
       "time": "20:00",
-      "price": "$3, $5 lesson, $8 combined",
+      "price": "$3, $5 lesson, $8 combo",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -192,8 +192,36 @@
       "source": "localAI"
     },
     {
-      "id": "local-upper-deck-bar-grille-2026-07-09-the-scottwynnradio-with-wqmx-line-dancing",
-      "name": "The Scottwynnradio with WQMX + Line Dancing",
+      "id": "local-beachland-ballroom-tavern-2026-07-08-puppeteers-for-fears-presents-robopocalypse-the-musical-",
+      "name": "Puppeteers For Fears, presents Robopocalypse: The Musical!",
+      "date": "2026-07-08",
+      "time": "20:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Beachland Ballroom & Tavern",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.5695,
+      "longitude": -81.5697,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-09-country-night-out-on-the-lakes-line-dancing-with-music-",
+      "name": "Country Night Out on the Lakes (line dancing with music)",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-09-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
       "date": "2026-07-09",
       "time": "18:00",
       "price": null,
@@ -252,12 +280,26 @@
       "name": "BLUE RADIO / HYWATER / I'D LIKE TO GO HOME NOW",
       "date": "2026-07-09",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-09-line-dancing-with-patti",
+      "name": "Line Dancing with Patti",
+      "date": "2026-07-09",
+      "time": "20:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
       "longitude": -81.541,
       "source": "localAI"
     },
@@ -406,7 +448,7 @@
       "name": "Lunar Sun Theatrics Presents...Categorical Nonsense Vol. 1",
       "date": "2026-07-11",
       "time": "14:00",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -500,34 +542,6 @@
       "source": "localAI"
     },
     {
-      "id": "local-upper-deck-bar-grille-2026-07-11-line-dancing-with-patti",
-      "name": "Line Dancing with Patti",
-      "date": "2026-07-11",
-      "time": "20:30",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "Upper Deck Bar & Grille",
-      "city": "Portage Lakes",
-      "state": "OH",
-      "latitude": 40.989,
-      "longitude": -81.541,
-      "source": "localAI"
-    },
-    {
-      "id": "local-beachland-ballroom-tavern-2026-07-12-beachland-flea-dj-mark-mrazek",
-      "name": "Beachland Flea, DJ Mark Mrazek",
-      "date": "2026-07-12",
-      "time": "10:00",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
-      "source": "localAI"
-    },
-    {
       "id": "local-dano-s-lakeside-pub-2026-07-12-elijah-black",
       "name": "ELIJAH BLACK",
       "date": "2026-07-12",
@@ -570,8 +584,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker-natalie-mcmahon",
-      "name": "Jack Blocker, Natalie McMahon",
+      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker",
+      "name": "Jack Blocker",
       "date": "2026-07-12",
       "time": "20:00",
       "price": null,
@@ -640,8 +654,22 @@
       "source": "localAI"
     },
     {
-      "id": "local-upper-deck-bar-grille-2026-07-16-the-scottwynnradio-with-wqmx-line-dancing",
-      "name": "The Scottwynnradio with WQMX + Line Dancing",
+      "id": "local-upper-deck-bar-grille-2026-07-16-country-night-out-on-the-lakes-line-dancing-with-music-",
+      "name": "Country Night Out on the Lakes (line dancing with music)",
+      "date": "2026-07-16",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-16-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
       "date": "2026-07-16",
       "time": "18:00",
       "price": null,
@@ -672,7 +700,7 @@
       "name": "Emerging Sounds Ft. Your Shrapnel Caress / Remnants",
       "date": "2026-07-16",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -693,6 +721,34 @@
       "state": "OH",
       "latitude": 41.1538,
       "longitude": -81.3568,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-16-line-dancing-with-patti",
+      "name": "Line Dancing with Patti",
+      "date": "2026-07-16",
+      "time": "20:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-mercury-music-lounge-2026-07-16-live-wire-karaoke",
+      "name": "Live Wire Karaoke",
+      "date": "2026-07-16",
+      "time": "21:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Mercury Music Lounge",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.466,
+      "longitude": -81.787,
       "source": "localAI"
     },
     {
@@ -728,7 +784,7 @@
       "name": "The Tenants / Roots Music Trio / Dust Bowl Faeries / Mudhouse Duo",
       "date": "2026-07-17",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -840,7 +896,7 @@
       "name": "The Voodoo Child / Tundra Tuxedo",
       "date": "2026-07-18",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -861,20 +917,6 @@
       "state": "OH",
       "latitude": 41.1538,
       "longitude": -81.3568,
-      "source": "localAI"
-    },
-    {
-      "id": "local-upper-deck-bar-grille-2026-07-18-line-dancing-with-patti",
-      "name": "Line Dancing with Patti",
-      "date": "2026-07-18",
-      "time": "20:30",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "Upper Deck Bar & Grille",
-      "city": "Portage Lakes",
-      "state": "OH",
-      "latitude": 40.989,
-      "longitude": -81.541,
       "source": "localAI"
     },
     {
@@ -938,7 +980,7 @@
       "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-07-22",
       "time": "20:00",
-      "price": "$3, $5 lesson, $8 combined",
+      "price": "$3, $5 lesson, $8 combo",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -962,8 +1004,22 @@
       "source": "localAI"
     },
     {
-      "id": "local-upper-deck-bar-grille-2026-07-23-the-scottwynnradio-with-wqmx-line-dancing",
-      "name": "The Scottwynnradio with WQMX + Line Dancing",
+      "id": "local-upper-deck-bar-grille-2026-07-23-country-night-out-on-the-lakes-line-dancing-with-music-",
+      "name": "Country Night Out on the Lakes (line dancing with music)",
+      "date": "2026-07-23",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-23-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
       "date": "2026-07-23",
       "time": "18:00",
       "price": null,
@@ -980,7 +1036,7 @@
       "name": "Daisypusher / Highland Grove / Daniel Rylander / Britney Redpath",
       "date": "2026-07-23",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1001,6 +1057,20 @@
       "state": "OH",
       "latitude": 40.8,
       "longitude": -81.3757,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-23-line-dancing-with-patti",
+      "name": "Line Dancing with Patti",
+      "date": "2026-07-23",
+      "time": "20:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
       "source": "localAI"
     },
     {
@@ -1050,7 +1120,7 @@
       "name": "The Velvet Gentlemen / Riley Burke Band / Rustic Skies",
       "date": "2026-07-24",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1134,7 +1204,7 @@
       "name": "Super Culture / Akronauts / Lovely Weather",
       "date": "2026-07-25",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1155,20 +1225,6 @@
       "state": "OH",
       "latitude": 41.466,
       "longitude": -81.787,
-      "source": "localAI"
-    },
-    {
-      "id": "local-upper-deck-bar-grille-2026-07-25-line-dancing-with-patti",
-      "name": "Line Dancing with Patti",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "Upper Deck Bar & Grille",
-      "city": "Portage Lakes",
-      "state": "OH",
-      "latitude": 40.989,
-      "longitude": -81.541,
       "source": "localAI"
     },
     {
@@ -1228,8 +1284,22 @@
       "source": "localAI"
     },
     {
-      "id": "local-upper-deck-bar-grille-2026-07-30-the-scottwynnradio-with-wqmx-line-dancing",
-      "name": "The Scottwynnradio with WQMX + Line Dancing",
+      "id": "local-upper-deck-bar-grille-2026-07-30-country-night-out-on-the-lakes-line-dancing-with-music-",
+      "name": "Country Night Out on the Lakes (line dancing with music)",
+      "date": "2026-07-30",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-30-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
       "date": "2026-07-30",
       "time": "18:00",
       "price": null,
@@ -1246,12 +1316,26 @@
       "name": "Marcus Waine / Grace Oddo / Logan Asher",
       "date": "2026-07-30",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-30-line-dancing-with-patti",
+      "name": "Line Dancing with Patti",
+      "date": "2026-07-30",
+      "time": "20:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
       "longitude": -81.541,
       "source": "localAI"
     },
@@ -1274,7 +1358,7 @@
       "name": "Luke Wiggins / Dale Blankenship / Zach Angeloni",
       "date": "2026-07-31",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1330,7 +1414,7 @@
       "name": "HIT PLAYBACK CONCERT BY JIM BALLARD & THE STRANGS FT. AUSTIN WALKIN' CANE",
       "date": "2026-08-01",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1453,10 +1537,10 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-08-i-love-the-90-s-night-ft-local-musicians-playing-90-s-hits",
-      "name": "I LOVE THE 90's Night! Ft. Local Musicians Playing 90's Hits",
+      "name": "I LOVe THE 90's Night! Ft. Local Musicians Playing 90's Hits",
       "date": "2026-08-08",
       "time": "20:00",
-      "price": "Free",
+      "price": "Free, $5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1582,7 +1666,7 @@
       "name": "Glass Aeros / LibCor / Hobo Phantasm",
       "date": "2026-08-20",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1610,7 +1694,7 @@
       "name": "The Moonlight Serenaders Big Band W/ Guest Mike Cady Present Satin, Smoke & Swing",
       "date": "2026-08-21",
       "time": "20:00",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1750,7 +1834,7 @@
       "name": "River Glen / Megan Bee / Light Of The Loon",
       "date": "2026-08-29",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1988,7 +2072,7 @@
       "name": "The Captain Album Release Party By Anna Beau Ft. Brett Auerbach / Jesse Ruben / Wreck Like Me",
       "date": "2026-09-18",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -2130,7 +2214,7 @@
     {
       "venue": "Upper Deck Bar & Grille",
       "status": "ok",
-      "events": 7
+      "events": 12
     },
     {
       "venue": "Dano's Lakeside Pub",
@@ -2144,6 +2228,11 @@
     },
     {
       "venue": "Johnny J's Pub & Grille",
+      "status": "ok",
+      "events": 0
+    },
+    {
+      "venue": "Dusty's Yacht Club",
       "status": "ok",
       "events": 0
     },
@@ -2170,7 +2259,7 @@
     {
       "venue": "Mercury Music Lounge",
       "status": "ok",
-      "events": 11
+      "events": 12
     },
     {
       "venue": "The Foundry Concert Club",
