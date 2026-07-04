@@ -1,13 +1,28 @@
 {
-  "generatedAt": "2026-07-04T09:22:47.213Z",
+  "generatedAt": "2026-07-04T10:38:05.773Z",
   "cities": [
     "Akron, OH",
+    "Portage Lakes, OH",
     "Cleveland, OH",
     "Kent, OH",
     "Canton, OH"
   ],
-  "eventCount": 99,
+  "eventCount": 143,
   "events": [
+    {
+      "id": "local-dano-s-lakeside-pub-2026-07-04-prime-trio",
+      "name": "PRIME TRIO",
+      "date": "2026-07-04",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
     {
       "id": "local-bop-stop-2026-07-04-we-re-all-gonna-die-tribute-to-sufjan-stevens-bop-stop",
       "name": "We're All Gonna Die: Tribute to Sufjan Stevens @ BOP STOP",
@@ -20,6 +35,20 @@
       "state": "OH",
       "latitude": 41.4903,
       "longitude": -81.7093,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-07-05-ted-riser",
+      "name": "TED RISER",
+      "date": "2026-07-05",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -107,6 +136,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-08-john-markovic",
+      "name": "JOHN MARKOVIC",
+      "date": "2026-07-08",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-foundry-concert-club-2026-07-08-metalcore-wednesday",
       "name": "Metalcore Wednesday",
       "date": "2026-07-08",
@@ -121,20 +164,6 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-07-08-swing-dancing-the-rialto",
-      "name": "SWING DANCING @ THE RIALTO",
-      "date": "2026-07-08",
-      "time": "18:30",
-      "price": "$3, $5, $8",
-      "ticketUrl": null,
-      "venueName": "The Rialto Theatre",
-      "city": "Akron",
-      "state": "OH",
-      "latitude": 41.0553,
-      "longitude": -81.541,
-      "source": "localAI"
-    },
-    {
       "id": "local-the-foundry-concert-club-2026-07-08-rgmrts-death-mattress-miss-dreadful-thing-in-the-moonlight",
       "name": "RGMRTS, Death Mattress, Miss Dreadful, Thing In The Moonlight",
       "date": "2026-07-08",
@@ -146,6 +175,20 @@
       "state": "OH",
       "latitude": 41.4838,
       "longitude": -81.768,
+      "source": "localAI"
+    },
+    {
+      "id": "local-the-rialto-theatre-2026-07-08-swing-dancing-the-rialto",
+      "name": "SWING DANCING @ THE RIALTO",
+      "date": "2026-07-08",
+      "time": "20:00",
+      "price": "$3 / $5 lesson / $8 combo",
+      "ticketUrl": null,
+      "venueName": "The Rialto Theatre",
+      "city": "Akron",
+      "state": "OH",
+      "latitude": 41.0553,
+      "longitude": -81.541,
       "source": "localAI"
     },
     {
@@ -209,7 +252,7 @@
       "name": "BLUE RADIO / HYWATER / I'D LIKE TO GO HOME NOW",
       "date": "2026-07-09",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -230,6 +273,20 @@
       "state": "OH",
       "latitude": 41.0553,
       "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-07-10-tyler-hawes",
+      "name": "TYLER HAWES",
+      "date": "2026-07-10",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -289,8 +346,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-jilly-s-music-room-2026-07-10-the-alibi-friday",
-      "name": "THE ALIBI FRIDAY",
+      "id": "local-jilly-s-music-room-2026-07-10-the-alibi",
+      "name": "The Alibi",
       "date": "2026-07-10",
       "time": "20:00",
       "price": "Free",
@@ -332,7 +389,7 @@
     },
     {
       "id": "local-the-foundry-concert-club-2026-07-10-nocturnal",
-      "name": "Nocturnal",
+      "name": "NOCTURNAL",
       "date": "2026-07-10",
       "time": "22:00",
       "price": null,
@@ -349,13 +406,27 @@
       "name": "Lunar Sun Theatrics Presents...Categorical Nonsense Vol. 1",
       "date": "2026-07-11",
       "time": "14:00",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
       "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-07-11-matt-and-felicia",
+      "name": "MATT AND FELICIA",
+      "date": "2026-07-11",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -402,7 +473,7 @@
     },
     {
       "id": "local-jilly-s-music-room-2026-07-11-weasal-face-bred-friday",
-      "name": "WEASAL FACE | BRED FRIDAY",
+      "name": "Weasal Face | Bred Friday",
       "date": "2026-07-11",
       "time": "20:00",
       "price": "$5",
@@ -426,6 +497,20 @@
       "state": "OH",
       "latitude": 41.4903,
       "longitude": -81.7093,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-07-12-elijah-black",
+      "name": "ELIJAH BLACK",
+      "date": "2026-07-12",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -499,17 +584,17 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-foundry-concert-club-2026-07-15-metalcore-wednesday",
-      "name": "Metalcore Wednesday",
+      "id": "local-dano-s-lakeside-pub-2026-07-15-east-of-seattle",
+      "name": "EAST OF SEATTLE",
       "date": "2026-07-15",
       "time": "18:00",
       "price": null,
       "ticketUrl": null,
-      "venueName": "The Foundry Concert Club",
-      "city": "Cleveland",
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
       "state": "OH",
-      "latitude": 41.4838,
-      "longitude": -81.768,
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -545,7 +630,7 @@
       "name": "Emerging Sounds Ft. Your Shrapnel Caress / Remnants",
       "date": "2026-07-16",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -597,11 +682,25 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-17-teddy-robb",
+      "name": "TEDDY ROBB",
+      "date": "2026-07-17",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-07-17-the-tenants-roots-music-trio-dust-bowl-faeries-mudhouse-duo",
       "name": "The Tenants / Roots Music Trio / Dust Bowl Faeries / Mudhouse Duo",
       "date": "2026-07-17",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -653,6 +752,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-18-dlp",
+      "name": "DLP",
+      "date": "2026-07-18",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-07-18-jeff-smith-rusty-pugh-hb-blues-",
       "name": "JEFF SMITH & RUSTY PUGH - HB BLUES!",
       "date": "2026-07-18",
@@ -699,7 +812,7 @@
       "name": "The Voodoo Child / Tundra Tuxedo",
       "date": "2026-07-18",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -720,6 +833,20 @@
       "state": "OH",
       "latitude": 41.1538,
       "longitude": -81.3568,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-07-19-the-shannons",
+      "name": "THE SHANNONS",
+      "date": "2026-07-19",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -751,11 +878,25 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-22-tom-sully-music",
+      "name": "TOM SULLY MUSIC",
+      "date": "2026-07-22",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-07-22-swing-dancing-the-rialto-",
       "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-07-22",
-      "time": "18:30",
-      "price": "$3, $5, $8",
+      "time": "20:00",
+      "price": "$3 / $5 lesson / $8 combo",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -783,7 +924,7 @@
       "name": "Daisypusher / Highland Grove / Daniel Rylander / Britney Redpath",
       "date": "2026-07-23",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -821,6 +962,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-24-zip-and-zig",
+      "name": "ZIP AND ZIG",
+      "date": "2026-07-24",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-mercury-music-lounge-2026-07-24-high-early-sara-the-eddies",
       "name": "High Early, Sara & The Eddies",
       "date": "2026-07-24",
@@ -839,7 +994,7 @@
       "name": "The Velvet Gentlemen / Riley Burke Band / Rustic Skies",
       "date": "2026-07-24",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -891,6 +1046,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-25-tropaholics",
+      "name": "TROPAHOLICS",
+      "date": "2026-07-25",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-07-25-terry-lilley",
       "name": "Terry Lilley",
       "date": "2026-07-25",
@@ -909,7 +1078,7 @@
       "name": "Super Culture / Akronauts / Lovely Weather",
       "date": "2026-07-25",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -933,6 +1102,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-26-travelin-johnsons",
+      "name": "TRAVELIN JOHNSONS",
+      "date": "2026-07-26",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-mercury-music-lounge-2026-07-28-the-mercury-jam",
       "name": "The Mercury Jam",
       "date": "2026-07-28",
@@ -944,6 +1127,20 @@
       "state": "OH",
       "latitude": 41.466,
       "longitude": -81.787,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-07-29-island-troy",
+      "name": "ISLAND TROY",
+      "date": "2026-07-29",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -965,7 +1162,7 @@
       "name": "Marcus Waine / Grace Oddo / Logan Asher",
       "date": "2026-07-30",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -975,11 +1172,25 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-07-31-greg-crow",
+      "name": "GREG CROW",
+      "date": "2026-07-31",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-07-31-luke-wiggins-dale-blankenship-zach-angeloni",
       "name": "Luke Wiggins / Dale Blankenship / Zach Angeloni",
       "date": "2026-07-31",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1003,6 +1214,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-08-01-dlp",
+      "name": "DLP",
+      "date": "2026-08-01",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-08-01-molly-conrad-in-the-living-room",
       "name": "Molly Conrad in The Living Room",
       "date": "2026-08-01",
@@ -1021,7 +1246,7 @@
       "name": "HIT PLAYBACK CONCERT BY JIM BALLARD & THE STRANGS FT. AUSTIN WALKIN' CANE",
       "date": "2026-08-01",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1056,6 +1281,20 @@
       "state": "OH",
       "latitude": 41.081,
       "longitude": -81.52,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-02-becky-and-john",
+      "name": "BECKY AND JOHN",
+      "date": "2026-08-02",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1101,6 +1340,34 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-08-07-tyler-hawes",
+      "name": "TYLER HAWES",
+      "date": "2026-08-07",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-08-night-work",
+      "name": "NIGHT WORK",
+      "date": "2026-08-08",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-08-08-i-love-the-90-s-night-ft-local-musicians-playing-90-s-hits",
       "name": "I LOVe THE 90's Night! Ft. Local Musicians Playing 90's Hits",
       "date": "2026-08-08",
@@ -1115,17 +1382,87 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-08-09-elijah-black",
+      "name": "ELIJAH BLACK",
+      "date": "2026-08-09",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-12-east-of-seattle",
+      "name": "EAST OF SEATTLE",
+      "date": "2026-08-12",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-08-12-swing-dancing-the-rialto-",
       "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-08-12",
-      "time": "18:30",
-      "price": "$5",
+      "time": "20:00",
+      "price": "$5 / $5 lesson",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
       "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-14-ted-riser",
+      "name": "TED RISER",
+      "date": "2026-08-14",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-15-tropaholics",
+      "name": "TROPAHOLICS",
+      "date": "2026-08-15",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-16-the-shannons",
+      "name": "THE SHANNONS",
+      "date": "2026-08-16",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1143,11 +1480,25 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-08-19-john-markovic",
+      "name": "JOHN MARKOVIC",
+      "date": "2026-08-19",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-08-20-glass-aeros-libcor-hobo-phantasm",
       "name": "Glass Aeros / LibCor / Hobo Phantasm",
       "date": "2026-08-20",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1157,17 +1508,45 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-08-21-travelin-johnsons",
+      "name": "TRAVELIN JOHNSONS",
+      "date": "2026-08-21",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-08-21-the-moonlight-serenaders-big-band-w-guest-mike-cady-present-satin-smoke-swing",
       "name": "The Moonlight Serenaders Big Band W/ Guest Mike Cady Present Satin, Smoke & Swing",
       "date": "2026-08-21",
       "time": "20:00",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
       "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-22-greg-crow",
+      "name": "GREG CROW",
+      "date": "2026-08-22",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1185,17 +1564,59 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-08-23-hot-wings",
+      "name": "HOT WINGS",
+      "date": "2026-08-23",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-26-tom-sully-music",
+      "name": "TOM SULLY MUSIC",
+      "date": "2026-08-26",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-08-26-swing-dancing-the-rialto-",
       "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-08-26",
-      "time": "18:30",
-      "price": "$5",
+      "time": "20:00",
+      "price": "$5 / $5 lesson",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
       "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-28-top-shelf",
+      "name": "TOP SHELF",
+      "date": "2026-08-28",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1227,17 +1648,101 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-08-29-matt-and-felicia",
+      "name": "MATT AND FELICIA",
+      "date": "2026-08-29",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-08-29-river-glen-megan-bee-light-of-the-loon",
       "name": "River Glen / Megan Bee / Light Of The Loon",
       "date": "2026-08-29",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
       "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-08-30-cleveland-s-rock-bar-cbr-",
+      "name": "CLEVELAND'S ROCK BAR (CBR)",
+      "date": "2026-08-30",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-04-roxy-blues-band",
+      "name": "ROXY BLUES BAND",
+      "date": "2026-09-04",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-05-teddy-robb",
+      "name": "TEDDY ROBB",
+      "date": "2026-09-05",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-06-the-saints",
+      "name": "THE SAINTS",
+      "date": "2026-09-06",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-07-prime-trio",
+      "name": "PRIME TRIO",
+      "date": "2026-09-07",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1252,6 +1757,20 @@
       "state": "OH",
       "latitude": 41.5695,
       "longitude": -81.5697,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-09-east-of-seattle",
+      "name": "EAST OF SEATTLE",
+      "date": "2026-09-09",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1283,6 +1802,20 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-09-11-island-troy",
+      "name": "ISLAND TROY",
+      "date": "2026-09-11",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-lock-3-rock-the-lock-2026-09-12-gerald-albright",
       "name": "Gerald Albright",
       "date": "2026-09-12",
@@ -1294,6 +1827,20 @@
       "state": "OH",
       "latitude": 41.081,
       "longitude": -81.52,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-12-greg-crow",
+      "name": "GREG CROW",
+      "date": "2026-09-12",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1311,17 +1858,87 @@
       "source": "localAI"
     },
     {
+      "id": "local-dano-s-lakeside-pub-2026-09-13-strum-and-strummer",
+      "name": "STRUM AND STRUMMER",
+      "date": "2026-09-13",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-16-mike-dunfee",
+      "name": "MIKE DUNFEE",
+      "date": "2026-09-16",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-18-john-markovic",
+      "name": "JOHN MARKOVIC",
+      "date": "2026-09-18",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-09-18-the-captain-album-release-party-by-anna-beau-ft-brett-auerbach-jesse-ruben-wreck-like-me",
       "name": "The Captain Album Release Party By Anna Beau Ft. Brett Auerbach / Jesse Ruben / Wreck Like Me",
       "date": "2026-09-18",
       "time": "19:30",
-      "price": null,
+      "price": "$5 surcharge for under 21",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
       "state": "OH",
       "latitude": 41.0553,
       "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-19-matt-and-felicia",
+      "name": "MATT AND FELICIA",
+      "date": "2026-09-19",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
+      "source": "localAI"
+    },
+    {
+      "id": "local-dano-s-lakeside-pub-2026-09-20-prime-trio",
+      "name": "PRIME TRIO",
+      "date": "2026-09-20",
+      "time": "15:30",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Dano's Lakeside Pub",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.957,
+      "longitude": -81.529,
       "source": "localAI"
     },
     {
@@ -1427,6 +2044,31 @@
       "events": 6
     },
     {
+      "venue": "Upper Deck Bar & Grille",
+      "status": "ok",
+      "events": 0
+    },
+    {
+      "venue": "Dano's Lakeside Pub",
+      "status": "ok",
+      "events": 45
+    },
+    {
+      "venue": "Nauti Vine Winery",
+      "status": "ok",
+      "events": 0
+    },
+    {
+      "venue": "Johnny J's Pub & Grille",
+      "status": "ok",
+      "events": 0
+    },
+    {
+      "venue": "Hook, Line & Drinkers",
+      "status": "js-rendered",
+      "events": 0
+    },
+    {
       "venue": "Happy Dog",
       "status": "ok",
       "events": 0
@@ -1454,7 +2096,7 @@
     {
       "venue": "The Foundry Concert Club",
       "status": "ok",
-      "events": 15
+      "events": 14
     },
     {
       "venue": "The Kent Stage",
