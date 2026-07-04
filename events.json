@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T11:02:32.781Z",
+  "generatedAt": "2026-07-04T11:55:56.254Z",
   "cities": [
     "Akron, OH",
     "Portage Lakes, OH",
@@ -7,7 +7,7 @@
     "Kent, OH",
     "Canton, OH"
   ],
-  "eventCount": 146,
+  "eventCount": 151,
   "events": [
     {
       "id": "local-dano-s-lakeside-pub-2026-07-04-prime-trio",
@@ -35,34 +35,6 @@
       "state": "OH",
       "latitude": 41.4903,
       "longitude": -81.7093,
-      "source": "localAI"
-    },
-    {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-beachland-brunch-with-dj-red-i",
-      "name": "Beachland Brunch with DJ Red-I",
-      "date": "2026-07-05",
-      "time": "11:00",
-      "price": "Free",
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
-      "source": "localAI"
-    },
-    {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-this-way-out",
-      "name": "This Way Out",
-      "date": "2026-07-05",
-      "time": "12:00",
-      "price": "Free",
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
       "source": "localAI"
     },
     {
@@ -108,11 +80,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike-sum-sun",
-      "name": "The Strike, SUM SUN",
+      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike",
+      "name": "The Strike",
       "date": "2026-07-05",
       "time": "20:00",
-      "price": null,
+      "price": "Free",
       "ticketUrl": null,
       "venueName": "Beachland Ballroom & Tavern",
       "city": "Cleveland",
@@ -231,6 +203,34 @@
       "state": "OH",
       "latitude": 41.5695,
       "longitude": -81.5697,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-09-country-night-out-on-the-lakes-line-dancing-",
+      "name": "Country Night Out on the Lakes (Line Dancing)",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-09-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
       "source": "localAI"
     },
     {
@@ -374,11 +374,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-jilly-s-music-room-2026-07-10-the-alibi-friday",
-      "name": "The Alibi Friday",
+      "id": "local-jilly-s-music-room-2026-07-10-the-alibi",
+      "name": "The Alibi",
       "date": "2026-07-10",
       "time": "20:00",
-      "price": "Free",
+      "price": "No Cover",
       "ticketUrl": null,
       "venueName": "Jilly's Music Room",
       "city": "Akron",
@@ -528,20 +528,6 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-12-beachland-flea-dj-mark-mrazek",
-      "name": "Beachland Flea, DJ Mark Mrazek",
-      "date": "2026-07-12",
-      "time": "10:00",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
-      "source": "localAI"
-    },
-    {
       "id": "local-dano-s-lakeside-pub-2026-07-12-elijah-black",
       "name": "ELIJAH BLACK",
       "date": "2026-07-12",
@@ -584,8 +570,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker-natalie-mcmahon",
-      "name": "Jack Blocker, Natalie McMahon",
+      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker",
+      "name": "Jack Blocker",
       "date": "2026-07-12",
       "time": "20:00",
       "price": null,
@@ -612,8 +598,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-foundry-concert-club-2026-07-14-personality-crisis-aka-cle-punk-night",
-      "name": "Personality Crisis AKA CLE PUNK NIGHT",
+      "id": "local-the-foundry-concert-club-2026-07-14-personality-crisis",
+      "name": "Personality Crisis",
       "date": "2026-07-14",
       "time": "21:00",
       "price": null,
@@ -654,6 +640,34 @@
       "source": "localAI"
     },
     {
+      "id": "local-upper-deck-bar-grille-2026-07-16-country-night-out-on-the-lakes-line-dancing-",
+      "name": "Country Night Out on the Lakes (Line Dancing)",
+      "date": "2026-07-16",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-16-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
+      "date": "2026-07-16",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-foundry-concert-club-2026-07-16-eva-under-fire-nightdrive",
       "name": "Eva Under Fire, Nightdrive",
       "date": "2026-07-16",
@@ -668,8 +682,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-the-rialto-theatre-2026-07-16-your-shrapnel-caress-remnants",
-      "name": "Your Shrapnel Caress / Remnants",
+      "id": "local-the-rialto-theatre-2026-07-16-emerging-sounds-ft-your-shrapnel-caress-remnants",
+      "name": "Emerging Sounds Ft. Your Shrapnel Caress / Remnants",
       "date": "2026-07-16",
       "time": "19:30",
       "price": null,
@@ -962,6 +976,34 @@
       "source": "localAI"
     },
     {
+      "id": "local-upper-deck-bar-grille-2026-07-23-country-night-out-on-the-lakes-line-dancing-",
+      "name": "Country Night Out on the Lakes (Line Dancing)",
+      "date": "2026-07-23",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-23-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
+      "date": "2026-07-23",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-07-23-daisypusher-highland-grove-daniel-rylander-britney-redpath",
       "name": "Daisypusher / Highland Grove / Daniel Rylander / Britney Redpath",
       "date": "2026-07-23",
@@ -1200,6 +1242,34 @@
       "source": "localAI"
     },
     {
+      "id": "local-upper-deck-bar-grille-2026-07-30-country-night-out-on-the-lakes-line-dancing-",
+      "name": "Country Night Out on the Lakes (Line Dancing)",
+      "date": "2026-07-30",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
+      "id": "local-upper-deck-bar-grille-2026-07-30-the-scottwynnradio-with-wqmx",
+      "name": "The Scottwynnradio with WQMX",
+      "date": "2026-07-30",
+      "time": "18:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "Upper Deck Bar & Grille",
+      "city": "Portage Lakes",
+      "state": "OH",
+      "latitude": 40.989,
+      "longitude": -81.541,
+      "source": "localAI"
+    },
+    {
       "id": "local-the-rialto-theatre-2026-07-30-marcus-waine-grace-oddo-logan-asher",
       "name": "Marcus Waine / Grace Oddo / Logan Asher",
       "date": "2026-07-30",
@@ -1411,7 +1481,7 @@
     },
     {
       "id": "local-the-rialto-theatre-2026-08-08-i-love-the-90-s-night-ft-local-musicians-playing-90-s-hits",
-      "name": "I LOVE THE 90's Night! Ft. Local Musicians Playing 90's Hits",
+      "name": "I LOVe THE 90's Night! Ft. Local Musicians Playing 90's Hits",
       "date": "2026-08-08",
       "time": "20:00",
       "price": "Free",
@@ -2088,7 +2158,7 @@
     {
       "venue": "Upper Deck Bar & Grille",
       "status": "ok",
-      "events": 0
+      "events": 8
     },
     {
       "venue": "Dano's Lakeside Pub",
@@ -2106,11 +2176,6 @@
       "events": 0
     },
     {
-      "venue": "Hook, Line & Drinkers",
-      "status": "ok",
-      "events": 0
-    },
-    {
       "venue": "Happy Dog",
       "status": "ok",
       "events": 0
@@ -2118,7 +2183,7 @@
     {
       "venue": "Beachland Ballroom & Tavern",
       "status": "ok",
-      "events": 13
+      "events": 10
     },
     {
       "venue": "Mahall's 20 Lanes",
