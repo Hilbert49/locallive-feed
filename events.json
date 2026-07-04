@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-04T08:51:20.255Z",
+  "generatedAt": "2026-07-04T09:22:47.213Z",
   "cities": [
     "Akron, OH",
     "Cleveland, OH",
     "Kent, OH",
     "Canton, OH"
   ],
-  "eventCount": 101,
+  "eventCount": 99,
   "events": [
     {
       "id": "local-bop-stop-2026-07-04-we-re-all-gonna-die-tribute-to-sufjan-stevens-bop-stop",
@@ -20,34 +20,6 @@
       "state": "OH",
       "latitude": 41.4903,
       "longitude": -81.7093,
-      "source": "localAI"
-    },
-    {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-beachland-brunch-with-dj-red-i",
-      "name": "Beachland Brunch with DJ Red-I",
-      "date": "2026-07-05",
-      "time": "11:00",
-      "price": "Free",
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
-      "source": "localAI"
-    },
-    {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-this-way-out",
-      "name": "This Way Out",
-      "date": "2026-07-05",
-      "time": "12:00",
-      "price": "Free",
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
       "source": "localAI"
     },
     {
@@ -79,11 +51,11 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike-sum-sun",
-      "name": "The Strike, SUM SUN",
+      "id": "local-beachland-ballroom-tavern-2026-07-05-the-strike",
+      "name": "The Strike",
       "date": "2026-07-05",
       "time": "20:00",
-      "price": null,
+      "price": "Free",
       "ticketUrl": null,
       "venueName": "Beachland Ballroom & Tavern",
       "city": "Cleveland",
@@ -153,7 +125,7 @@
       "name": "SWING DANCING @ THE RIALTO",
       "date": "2026-07-08",
       "time": "18:30",
-      "price": "$3, $5 lesson, $8 combined",
+      "price": "$3, $5, $8",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -317,8 +289,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-jilly-s-music-room-2026-07-10-the-alibi",
-      "name": "The Alibi",
+      "id": "local-jilly-s-music-room-2026-07-10-the-alibi-friday",
+      "name": "THE ALIBI FRIDAY",
       "date": "2026-07-10",
       "time": "20:00",
       "price": "Free",
@@ -430,7 +402,7 @@
     },
     {
       "id": "local-jilly-s-music-room-2026-07-11-weasal-face-bred-friday",
-      "name": "Weasal Face | Bred Friday",
+      "name": "WEASAL FACE | BRED FRIDAY",
       "date": "2026-07-11",
       "time": "20:00",
       "price": "$5",
@@ -454,20 +426,6 @@
       "state": "OH",
       "latitude": 41.4903,
       "longitude": -81.7093,
-      "source": "localAI"
-    },
-    {
-      "id": "local-beachland-ballroom-tavern-2026-07-12-beachland-flea-with-dj-mark-mrazek",
-      "name": "Beachland Flea with DJ Mark Mrazek",
-      "date": "2026-07-12",
-      "time": "10:00",
-      "price": null,
-      "ticketUrl": null,
-      "venueName": "Beachland Ballroom & Tavern",
-      "city": "Cleveland",
-      "state": "OH",
-      "latitude": 41.5695,
-      "longitude": -81.5697,
       "source": "localAI"
     },
     {
@@ -499,8 +457,8 @@
       "source": "localAI"
     },
     {
-      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker-natalie-mcmahon",
-      "name": "Jack Blocker, Natalie McMahon",
+      "id": "local-beachland-ballroom-tavern-2026-07-12-jack-blocker",
+      "name": "Jack Blocker",
       "date": "2026-07-12",
       "time": "20:00",
       "price": null,
@@ -531,6 +489,20 @@
       "name": "Personality Crisis AKA CLE PUNK NIGHT",
       "date": "2026-07-14",
       "time": "21:00",
+      "price": null,
+      "ticketUrl": null,
+      "venueName": "The Foundry Concert Club",
+      "city": "Cleveland",
+      "state": "OH",
+      "latitude": 41.4838,
+      "longitude": -81.768,
+      "source": "localAI"
+    },
+    {
+      "id": "local-the-foundry-concert-club-2026-07-15-metalcore-wednesday",
+      "name": "Metalcore Wednesday",
+      "date": "2026-07-15",
+      "time": "18:00",
       "price": null,
       "ticketUrl": null,
       "venueName": "The Foundry Concert Club",
@@ -783,7 +755,7 @@
       "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-07-22",
       "time": "18:30",
-      "price": "$3, $5 lesson, $8 combined",
+      "price": "$3, $5, $8",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1147,7 +1119,7 @@
       "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-08-12",
       "time": "18:30",
-      "price": "$5, $5 lesson",
+      "price": "$5",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1217,7 +1189,7 @@
       "name": "SWING DANCING @ THE RIALTO!",
       "date": "2026-08-26",
       "time": "18:30",
-      "price": "$5, $5 lesson",
+      "price": "$5",
       "ticketUrl": null,
       "venueName": "The Rialto Theatre",
       "city": "Akron",
@@ -1462,7 +1434,7 @@
     {
       "venue": "Beachland Ballroom & Tavern",
       "status": "ok",
-      "events": 13
+      "events": 10
     },
     {
       "venue": "Mahall's 20 Lanes",
@@ -1482,7 +1454,7 @@
     {
       "venue": "The Foundry Concert Club",
       "status": "ok",
-      "events": 14
+      "events": 15
     },
     {
       "venue": "The Kent Stage",
